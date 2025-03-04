@@ -1,0 +1,14 @@
+C:\Users\Emilio Barillas\OneDrive - Universidad Rafael Landivar\Universidad\Ciclo 11\INGENIERÍA DE SOFTWARE II\RepoParaJenkins\bin\Debug\net9.0\RepoParaJenkins.exe
+C:\Users\Emilio Barillas\OneDrive - Universidad Rafael Landivar\Universidad\Ciclo 11\INGENIERÍA DE SOFTWARE II\RepoParaJenkins\bin\Debug\net9.0\RepoParaJenkins.deps.json
+C:\Users\Emilio Barillas\OneDrive - Universidad Rafael Landivar\Universidad\Ciclo 11\INGENIERÍA DE SOFTWARE II\RepoParaJenkins\bin\Debug\net9.0\RepoParaJenkins.runtimeconfig.json
+C:\Users\Emilio Barillas\OneDrive - Universidad Rafael Landivar\Universidad\Ciclo 11\INGENIERÍA DE SOFTWARE II\RepoParaJenkins\bin\Debug\net9.0\RepoParaJenkins.dll
+C:\Users\Emilio Barillas\OneDrive - Universidad Rafael Landivar\Universidad\Ciclo 11\INGENIERÍA DE SOFTWARE II\RepoParaJenkins\bin\Debug\net9.0\RepoParaJenkins.pdb
+C:\Users\Emilio Barillas\OneDrive - Universidad Rafael Landivar\Universidad\Ciclo 11\INGENIERÍA DE SOFTWARE II\RepoParaJenkins\obj\Debug\net9.0\RepoParaJenkins.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emilio Barillas\OneDrive - Universidad Rafael Landivar\Universidad\Ciclo 11\INGENIERÍA DE SOFTWARE II\RepoParaJenkins\obj\Debug\net9.0\RepoParaJenkins.AssemblyInfoInputs.cache
+C:\Users\Emilio Barillas\OneDrive - Universidad Rafael Landivar\Universidad\Ciclo 11\INGENIERÍA DE SOFTWARE II\RepoParaJenkins\obj\Debug\net9.0\RepoParaJenkins.AssemblyInfo.cs
+C:\Users\Emilio Barillas\OneDrive - Universidad Rafael Landivar\Universidad\Ciclo 11\INGENIERÍA DE SOFTWARE II\RepoParaJenkins\obj\Debug\net9.0\RepoParaJenkins.csproj.CoreCompileInputs.cache
+C:\Users\Emilio Barillas\OneDrive - Universidad Rafael Landivar\Universidad\Ciclo 11\INGENIERÍA DE SOFTWARE II\RepoParaJenkins\obj\Debug\net9.0\RepoParaJenkins.dll
+C:\Users\Emilio Barillas\OneDrive - Universidad Rafael Landivar\Universidad\Ciclo 11\INGENIERÍA DE SOFTWARE II\RepoParaJenkins\obj\Debug\net9.0\refint\RepoParaJenkins.dll
+C:\Users\Emilio Barillas\OneDrive - Universidad Rafael Landivar\Universidad\Ciclo 11\INGENIERÍA DE SOFTWARE II\RepoParaJenkins\obj\Debug\net9.0\RepoParaJenkins.pdb
+C:\Users\Emilio Barillas\OneDrive - Universidad Rafael Landivar\Universidad\Ciclo 11\INGENIERÍA DE SOFTWARE II\RepoParaJenkins\obj\Debug\net9.0\RepoParaJenkins.genruntimeconfig.cache
+C:\Users\Emilio Barillas\OneDrive - Universidad Rafael Landivar\Universidad\Ciclo 11\INGENIERÍA DE SOFTWARE II\RepoParaJenkins\obj\Debug\net9.0\ref\RepoParaJenkins.dll
